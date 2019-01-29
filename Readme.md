@@ -37,5 +37,5 @@ python3 train.py
 ### Main directories and files
 
 - `./data`: storage for datasets and embeddings
-- './src/data_preprocess': codes for preprocessing data
-- './src/DeeCoNN': codes for building model and training
+- `./src/data_preprocess`: codes for preprocessing data
+- `./src/DeeCoNN`: codes for building model and training
